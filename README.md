@@ -12,10 +12,10 @@ When they choose "Add a Department" they will enter in the new department name w
 When they choose to "Update an Employee Role" they will be choose which active employee they would like to update, and then they will choose which active role they would like to update that employee to and then that change will be reflected in the employee table.
 
 ## Screenshot:
-![mySQL employee tracker application](./img/HW13-employee-tracker-application.png)
+![mySQL employee tracker application](./img/HW12-employee-tracker-application.png)
 
 ## Walkthrough Video:
-[![Employee application walkthrough video](./img/hw13-video-screenshot.png)(https://drive.google.com/file/d/1xmPoIETgkW9mDVuHr63SXuxNdLmWJEaD/view?usp=sharing)
+[![Employee application walkthrough video](./img/hw12-video-screenshot.png)(https://drive.google.com/file/d/1xmPoIETgkW9mDVuHr63SXuxNdLmWJEaD/view?usp=sharing)
 
 ## Link to Repo:
 [gwenewasko/repo](https://github.com/gwenewasko/Employee-Tracker-Application)
